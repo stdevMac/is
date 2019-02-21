@@ -1,0 +1,10 @@
+c:\users\gmijenes\documents\visual studio 2015\Projects\IS_WebApplication\Domain\bin\Debug\Domain.dll
+c:\users\gmijenes\documents\visual studio 2015\Projects\IS_WebApplication\Domain\bin\Debug\Domain.pdb
+c:\users\gmijenes\documents\visual studio 2015\Projects\IS_WebApplication\Domain\obj\Debug\Domain.dll
+c:\users\gmijenes\documents\visual studio 2015\Projects\IS_WebApplication\Domain\obj\Debug\Domain.pdb
+C:\Users\gmijenes\Documents\Visual Studio 2015\Projects\IS_WebApplication\Domain\bin\Debug\Domain.dll.config
+C:\Users\gmijenes\Documents\Visual Studio 2015\Projects\IS_WebApplication\Domain\bin\Debug\EntityFramework.dll
+C:\Users\gmijenes\Documents\Visual Studio 2015\Projects\IS_WebApplication\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gmijenes\Documents\Visual Studio 2015\Projects\IS_WebApplication\Domain\bin\Debug\EntityFramework.xml
+C:\Users\gmijenes\Documents\Visual Studio 2015\Projects\IS_WebApplication\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gmijenes\Documents\Visual Studio 2015\Projects\IS_WebApplication\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
